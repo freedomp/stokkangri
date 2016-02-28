@@ -2,4 +2,5 @@ var x = 10;
 MASTER 3
 sss
 
-DI IM ZE
+DI IM ZE 
+kokok
